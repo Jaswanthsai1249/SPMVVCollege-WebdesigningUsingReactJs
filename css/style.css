@@ -1,0 +1,34 @@
+/* p{
+  background-color: #00f;
+
+} */
+.borders {
+  background-color: #0ff;
+  border-style: solid;
+  border-radius: 100px;
+  /*  */
+}
+/* .paddings {
+  padding-top: 100Px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 100px;
+} */
+.paddings {
+  background-color: #ddd;
+  /* padding: 100px 300px 200px 50px; */
+  font-size: 100px;
+  font-style: oblique;
+  font-family: cursive;
+  font-weight: bolder;
+  width: 50%;
+  height: 500px;
+
+}
+
+.margins {
+  background-color: #aaa;
+  margin-top: 100px;
+  margin-right: 300px;
+  margin-left: 100px;
+}
